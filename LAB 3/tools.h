@@ -24,7 +24,7 @@ void obtenerDatos(istream &file,int nlines,int n,int mode,item* item_list){
 }
 
 void leerMallayCondiciones(mesh &m){
-    char filename[10];
+    char filename[11];
     ifstream file;
     float A,E,f;
     int nnodes,neltos,ndirich,nneu;

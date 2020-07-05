@@ -1,0 +1,13 @@
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.form-Inicio.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3D-V1.vcxproj.GenerateResource.cache
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3D-V1.exe
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3D-V1.pdb
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3D-V1.vcxprojAssemblyReference.cache
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.P1.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.P2.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.P3.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.P4.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.P5.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.definiciones.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.about.resources
+D:\Hector-PC\Documents\Visual-repos\FEM3D-V1\Debug\FEM3DV1.P8.resources

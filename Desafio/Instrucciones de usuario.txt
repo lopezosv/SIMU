@@ -1,0 +1,2 @@
+-Tener versión actualizada de C++ 
+-Colocar la carpeta "Recursos la raiz del disco C" 
